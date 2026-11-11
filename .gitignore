@@ -1,0 +1,5 @@
+.env
+bot_data.json
+bot_data.tmp
+__pycache__/
+*.py[cod]
